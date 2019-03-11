@@ -1,0 +1,7 @@
+C:\SSI\Zajecia2\Zajecia2\obj\Debug\Zajecia2.csprojAssemblyReference.cache
+C:\SSI\Zajecia2\Zajecia2\obj\Debug\Zajecia2.csproj.CoreCompileInputs.cache
+C:\SSI\Zajecia2\Zajecia2\bin\Debug\Zajecia2.exe.config
+C:\SSI\Zajecia2\Zajecia2\bin\Debug\Zajecia2.exe
+C:\SSI\Zajecia2\Zajecia2\bin\Debug\Zajecia2.pdb
+C:\SSI\Zajecia2\Zajecia2\obj\Debug\Zajecia2.exe
+C:\SSI\Zajecia2\Zajecia2\obj\Debug\Zajecia2.pdb
